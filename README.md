@@ -23,3 +23,13 @@
 [Care Summarizer Agent]
      ↓
 [Reminder Planner Agent]
+
+- ✅ **Cloudera Integration (1 point)**  
+  Cloudera trial account was created and considered for future integration. 
+but could not use it since i was using a free trail and anot aloowing me to start the environment.
+
+- ✅ **Notion Documentation (1 point)**  
+  The slide deck and supporting documentation were created and shared via Notion.  
+  This satisfies the criteria for 1 bonus point as per hackathon guidelines.
+
+https://www.notion.so/MedMentor_AI-An-AI-AgentOS-Powered-Health-Literacy-Assistant-230134ce466280f0b1d2ec03dbdd4bfb?source=copy_link
