@@ -1,7 +1,5 @@
 # MedMentor_AI + GenAI AgentOS Protocol
 
-![MedMentor Logo](assets/medmentor_logo.png)
-
 ## 🧠 Introduction
 
 **MedMentor.AI** is a multilingual AI-powered assistant designed to help patients understand complex medical diagnoses in simple terms. Built using the **GenAI AgentOS Protocol**, it combines modular AI agents into a seamless workflow that explains, translates, and generates downloadable health summaries.
