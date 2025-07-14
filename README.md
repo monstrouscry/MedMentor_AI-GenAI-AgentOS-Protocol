@@ -100,10 +100,6 @@ uv run agents/care_summary_agent/care_summary_agent.py
 * ✅ GenAI AgentOS Protocol Used (5 pts)
 * ✅ Notion Submission (1 pt)
 
-## 📎 Optional Assets
-
-* [Slide Deck (12 slides)](assets/MedMentor_AI_PitchDeck.pdf)
-* [PDF Report Sample](agents/care_summary_agent/patient_summary.pdf)
 
 ## 📜 License
 
